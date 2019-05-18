@@ -1,2 +1,3 @@
-# python-aws-automation
-Using python to do the aws things
+# Automating AWS with Python
+Repo for my mediocre AWS Python automation 
+*Your milage WILL vary*
