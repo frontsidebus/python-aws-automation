@@ -1,5 +1,5 @@
-# Automating AWS with Python
-Repo for my mediocre AWS Python automation 
+#Python AWS Automation 
+repo for my mediocre AWS Python automation 
 *Your milage WILL vary*
 
 ## 01-webotron
